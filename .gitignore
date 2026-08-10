@@ -1,3 +1,5 @@
 .claude/
 Old/
 .ftpquota
+deploy.credentials.ps1
+deploy.log
